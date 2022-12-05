@@ -9,7 +9,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
+    "string": "^3.3.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -35,5 +36,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "css-minimizer-webpack-plugin": "^4.2.2",
+    "gh-pages": "^4.0.0",
+    "postcss": "^8.4.19"
   }
 }

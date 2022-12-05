@@ -54,7 +54,7 @@ letter-spacing: -0.04em;
     text-align: left;
 }
 
-/.gpt3__footer-links div {
+.gpt3__footer-links div {
     width: 250px;
     margin: 1rem;
 }
