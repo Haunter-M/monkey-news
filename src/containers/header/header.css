@@ -81,7 +81,7 @@
 .gpt3__header-content__people {
    width: 100%;
    display: flex;
-   justify-content: center;
+   justify-content: center; 
 
    margin-top: 2 rem;
 }
@@ -145,10 +145,10 @@ margin: 0 0 3rem;
        } 
 
        .gpt3__header-content__input input,
-       .gpt3__header-content__input button,{
+       .gpt3__header-content__input button {
        font-size: 16px;
        line-height: 24px;
-     }
+       }
     }
 
     @media screen and (max-width: 490px)  {
@@ -162,10 +162,10 @@ margin: 0 0 3rem;
         line-height: 24px;
     
          }
-         .gpt3__header-content__input input,
-       .gpt3__header-content__input button,{
-       font-size: 12px;
-       line-height: 16px;
+     .gpt3__header-content__input input, 
+       .gpt3__header-content__input button {
+      font-size: 12px;
+      line-height: 16px;
     
        }
     }
