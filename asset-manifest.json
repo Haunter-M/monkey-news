@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/monkeynews.slop/static/css/main.6dca680d.css",
+    "main.js": "/monkeynews.slop/static/js/main.56812bed.js",
+    "static/media/ai.png": "/monkeynews.slop/static/media/ai.5c92b63ca3f3e946318f.png",
+    "static/media/possibility.png": "/monkeynews.slop/static/media/possibility.d7162507bcd6a8464279.png",
+    "static/media/logo.png": "/monkeynews.slop/static/media/logo.e8258a13e38a6a58038c.png",
+    "static/media/slack.png": "/monkeynews.slop/static/media/slack.0562b557ef33c913e23b.png",
+    "static/media/atlassian.png": "/monkeynews.slop/static/media/atlassian.5ea1e113ddbadcbcb895.png",
+    "static/media/people.png": "/monkeynews.slop/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/dropbox.png": "/monkeynews.slop/static/media/dropbox.c6ad3992a72574ebc7ad.png",
+    "index.html": "/monkeynews.slop/index.html",
+    "main.6dca680d.css.map": "/monkeynews.slop/static/css/main.6dca680d.css.map",
+    "main.56812bed.js.map": "/monkeynews.slop/static/js/main.56812bed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dca680d.css",
+    "static/js/main.56812bed.js"
+  ]
+}
